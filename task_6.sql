@@ -1,6 +1,6 @@
 -- task_6.sql
 -- Insert multiple rows into the Customers table
-
+INSERT INTO customer", "124 Happiness  Ave.
 INSERT INTO Customers (customer_id, customer_name, email, address)
 VALUES 
     (2, 'Blessing Malik', 'bmalik@sandtech.com', '124 Happiness Ave.'),
